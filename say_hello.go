@@ -7,3 +7,7 @@ func SayHello() string {
 func SayName(name string) string {
 	return "Hello Broksss " + name
 }
+
+func SayAddress(address string) string {
+	return "My Address " + address
+}
